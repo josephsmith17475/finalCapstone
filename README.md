@@ -7,7 +7,8 @@ This project will store and track tasks which are registered to different users 
 
 The project can be installed through the zip or through git
 
+Paste this into command prompt in the file you want it directed too:
 ```bash
-  put in cd: git clone https://github.com/josephsmith17475/finalCapstone.git
+  git clone https://github.com/josephsmith17475/finalCapstone.git
 ```
     
