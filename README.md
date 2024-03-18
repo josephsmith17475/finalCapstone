@@ -12,3 +12,7 @@ Paste this into command prompt in the file you want it directed too:
   git clone https://github.com/josephsmith17475/finalCapstone.git
 ```
     
+## Usage
+
+To use this program you will need to load it into a python ide whether thats pythons official ide or loading it through visual studio code and adding the python plugin, to run the program you can login as the admin through( Username : admin, Password : password ) this will allow you to add your own user and then you can go back and log in as your own account and assign tasks.
+
